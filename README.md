@@ -22,5 +22,5 @@ For more details on Brainfuck commands, refer to [Brainfuck - Wikipedia](https:/
 
 ## Usage
 
-To use the Brainfuck interpreter, compile the source code and provide the Brainfuck program file as a command-line argument:
+To use the this interpreter, compile the source code and provide the Brainfuck program file as a command-line argument:
 
