@@ -5,7 +5,7 @@ Date: 28 Dec 2023
 
 ## Description
 
-This is a simple Brainfuck interpreter created during my free time. The Brainfuck interpreter is a program that can execute Brainfuck programs, a minimalist programming language.
+This is a simple Brainfuck interpreter created during my free time.
 
 ### Brainfuck Commands
 
